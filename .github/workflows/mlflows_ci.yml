@@ -5,8 +5,8 @@ on:
     branches: [ main ]
 
 jobs:
-  train_model:
-    runs_on: ubuntu-latest
+  train-model:
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout code
