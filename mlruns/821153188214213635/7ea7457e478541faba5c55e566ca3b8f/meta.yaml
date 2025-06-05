@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/OneDrive/Desktop/MLOPS_PROJECT/mlruns/821153188214213635/7ea7457e478541faba5c55e566ca3b8f/artifacts
+end_time: 1749109346658
+entry_point_name: ''
+experiment_id: '821153188214213635'
+lifecycle_stage: active
+run_id: 7ea7457e478541faba5c55e566ca3b8f
+run_name: RandomForest
+run_uuid: 7ea7457e478541faba5c55e566ca3b8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749109339015
+status: 3
+tags: []
+user_id: DELL

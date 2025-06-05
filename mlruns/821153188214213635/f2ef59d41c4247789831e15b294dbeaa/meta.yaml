@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/OneDrive/Desktop/MLOPS_PROJECT/mlruns/821153188214213635/f2ef59d41c4247789831e15b294dbeaa/artifacts
+end_time: 1749109350182
+entry_point_name: ''
+experiment_id: '821153188214213635'
+lifecycle_stage: active
+run_id: f2ef59d41c4247789831e15b294dbeaa
+run_name: GradientBoosting
+run_uuid: f2ef59d41c4247789831e15b294dbeaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749109346664
+status: 3
+tags: []
+user_id: DELL

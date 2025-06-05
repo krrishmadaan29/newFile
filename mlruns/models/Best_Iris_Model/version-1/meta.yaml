@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1749109350237
+current_stage: None
+description: null
+last_updated_timestamp: 1749109350237
+name: Best_Iris_Model
+run_id: 7ea7457e478541faba5c55e566ca3b8f
+run_link: null
+source: file:///C:/Users/DELL/OneDrive/Desktop/MLOPS_PROJECT/mlruns/821153188214213635/7ea7457e478541faba5c55e566ca3b8f/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/DELL/OneDrive/Desktop/MLOPS_PROJECT/mlruns/821153188214213635/7ea7457e478541faba5c55e566ca3b8f/artifacts/model
+user_id: null
+version: 1
